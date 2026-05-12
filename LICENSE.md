@@ -1,4 +1,4 @@
-# 
+# MEV-optimized dexscreener sniper bot | pump-detection + auto-sell is the best dexscreener sniper bot, featuring pump-detection and auto-sell. Fast, smart, and optimized for MEV
 
 
 
